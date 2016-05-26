@@ -1,5 +1,5 @@
 # 讲义目录
-* [序言](README.md)
+* [讲义说明](README.md)
 *   第一章：环境搭建
 
     *   [1.1 IDEA的安装与使用](chapter01/ideade_an_zhuang_yu_shi_yong.md)
