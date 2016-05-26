@@ -49,8 +49,8 @@
 - [Java Web开发技术应用——过滤器](http://t.imooc.com/learn/213)
 - [JAVA Web开发技术应用——监听器](http://t.imooc.com/learn/271)
 
+####培训情况
 
-<img src="images/P60522-161433.jpg" width="300" height="200"/>
-<img src="images/P60523-181736.jpg" width="300" height="200"/>
+![](images/P60522-161433.jpg)
 
 ![](images/P60523-181736.jpg)
