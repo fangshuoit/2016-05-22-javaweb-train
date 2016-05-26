@@ -3,7 +3,8 @@
 >讲义阅读地址：https://fangshuoit.gitbooks.io/2016-05-22-javaweb-train/content
 >
 >gitbook地址：https://www.gitbook.com/book/fangshuoit/2016-05-22-javaweb-train/details
-
+>
+>github仓库地址：https://github.com/fangshuoit/2016-05-22-javaweb-train
 ####培训内容
 ```
 主讲人：周发扬、李伟超
