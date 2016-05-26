@@ -5,6 +5,7 @@
 >gitbook地址：https://www.gitbook.com/book/fangshuoit/2016-05-22-javaweb-train/details
 >
 >github仓库地址：https://github.com/fangshuoit/2016-05-22-javaweb-train
+
 ####培训内容
 ```
 主讲人：周发扬、李伟超
@@ -25,8 +26,10 @@
     2、每天完成培训学习任务；
     3、自带笔记本；
     4、按老师要求做课程总结；
+
 ```
 ####培训寄语
+
 ```
 1、希望这次课程能够圆满坚持！
 2、希望能把这次培训的所有知识点做一个整理总结！
