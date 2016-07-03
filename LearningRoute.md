@@ -20,6 +20,7 @@
 + 面向对象
 + 常见API
 + 集合框架
+
 ##2、HTML+CSSS+JavaScript基础教程
 ######主要掌握知识
 + HTML基本标签
@@ -29,7 +30,9 @@
 + JavaScript基础
 
     教程地址：http://www.imooc.com/view/36（入门、进阶、深入迁出）
+
 ##3、数据库基础教程（学习基础的Mysql数据库）
+
 基础语句教程参考一：http://www.w3school.com.cn/sql
 
 基础语句教程参考二：http://wiki.jikexueyuan.com/project/sql
@@ -44,6 +47,7 @@ MYSQL教程地址：http://www.imooc.com/view/122
 + JDBC基础
 
     视频地址：http://www.imooc.com/learn/157
+
 ##4、JavaWeb基础教程
 ######主要掌握知识
 + Servlet开发
@@ -62,6 +66,7 @@ MYSQL教程地址：http://www.imooc.com/view/122
 + 过滤器
 
     教程地址：http://www.imooc.com/learn/213
+
 ##5、JSP开发
 
 视频教程：http://www.imooc.com/view/166
@@ -77,6 +82,7 @@ MYSQL教程地址：http://www.imooc.com/view/122
 + JQuary
 
     教程地址：http://www.imooc.com/learn/11
+
 ##6、JavaEE企业基础
 文档教程：http://wiki.jikexueyuan.com/project/ssh-noob-learning
 ######主要掌握知识
@@ -109,6 +115,7 @@ MYSQL教程地址：http://www.imooc.com/view/122
 + SVN了解学习
 
     教程地址：http://www.imooc.com/learn/109
+
 ##8、拓展知识
 + JSON
 
