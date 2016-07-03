@@ -116,5 +116,5 @@ MYSQL教程地址：http://www.imooc.com/view/122
 
 + 编程规范
 
-    教程地址：http://wiki.jikexueyuan.com/project/google-java-styleguide-zh
+    教程地址：http://www.hawstein.com/posts/google-java-style.html
 
